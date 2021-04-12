@@ -1,0 +1,2 @@
+# dnstaplogfile
+DNSTap log file
